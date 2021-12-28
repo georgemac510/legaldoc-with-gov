@@ -3,5 +3,5 @@
 TO DO LIST:
 
 1) Pre-reqs and dependencies list and directions
-2) Compile and migrate contracts with Truffle
+2) Directions to compile and migrate contracts with Truffle
 3) Roadmap for front-end
