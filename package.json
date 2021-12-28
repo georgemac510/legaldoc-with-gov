@@ -1,0 +1,27 @@
+{
+  "name": "legaldoc-with-gov",
+  "version": "1.0.0",
+  "description": "Legal documents as an NFT marketplace with governance",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "John McLaughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "ganache-cli": "^6.12.2"
+  }
+}
